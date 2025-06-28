@@ -1,7 +1,11 @@
 site_name: База знаний
+site_url: https://shlyapp.github.io/obsidian-knowledge-base/
+repo_url: https://github.com/shlyapp/obsidian-knowledge-base
 theme:
   name: material
   features:
+    - navigation.instant
+    - navigation.instant.progress
     - navigation.path
     - navigation.tracking
     - navigation.top
