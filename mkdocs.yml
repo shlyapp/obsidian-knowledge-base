@@ -5,6 +5,7 @@ theme:
     - navigation.path
     - navigation.tracking
     - navigation.top
+    - navigation.footer
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -25,6 +26,15 @@ theme:
       primary: teal
       accent: lime
   custom_dir: overrides
+
+extra:
+  social:
+    - icon: simple/telegram
+      link: https://t.me/selfdoor
+    - icon: simple/github
+      link: https://github.com/shlyapp
+    - icon: simple/habr
+      link: https://habr.com/ru/users/selfdoor/
 
 plugins:
  - search
