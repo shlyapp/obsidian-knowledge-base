@@ -25,3 +25,7 @@ theme:
       primary: teal
       accent: lime
   custom_dir: overrides
+
+plugins:
+ - search
+ - document-dates
